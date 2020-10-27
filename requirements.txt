@@ -34,7 +34,7 @@ cloudpickle==1.2.2
 cntk==2.7
 command-not-found==0.3
 constantly==15.1.0
-cryptography==2.7
+cryptography==3.2
 cupshelpers==1.0
 cvxpy==1.0.14
 cycler==0.10.0
