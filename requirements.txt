@@ -10,7 +10,7 @@ astor==0.8.1
 atari-py==0.2.6
 attrs==19.3.0
 audioread==2.1.8
-autobahn==19.9.3
+autobahn==20.12.3
 Automat==0.7.0
 Babel==2.8.0
 backcall==0.1.0
