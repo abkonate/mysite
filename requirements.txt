@@ -170,7 +170,7 @@ polyglot==16.7.4
 preshed==3.0.2
 prometheus-client==0.7.1
 prompt-toolkit==3.0.3
-protobuf==3.12.2
+protobuf==3.18.3
 psycopg2-binary==2.8.4
 ptan==0.4
 ptyprocess==0.6.0
